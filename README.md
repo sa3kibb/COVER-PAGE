@@ -11,7 +11,7 @@ Professional lab report cover page and academic document generator for students 
 
 SUB Lab Report Cover Page Generator is a browser-based React application that helps students create clean, branded, print-ready lab report cover pages and starter academic documents. It supports official SUB branding, multiple department presets, live page preview, advanced cover customization, Overleaf/LaTeX helpers, and exports to PDF, image, Word, PowerPoint, SVG, and ZIP.
 
-Live application: [https://sa3kibb.github.io/LAB-REPORT-COVER-PAGE-/](https://sa3kibb.github.io/LAB-REPORT-COVER-PAGE-/)
+Live application: [https://sa3kibb.github.io/LAB-REPORT-COVER-PAGE-/](https://sa3kibb.github.io/COVER-PAGE-/)
 
 <p align="center">
   <img src="public/sub-logo.jpg" alt="State University of Bangladesh logo" width="180" />
