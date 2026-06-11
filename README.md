@@ -5,13 +5,13 @@ Professional lab report cover page and academic document generator for students 
 [![React](https://img.shields.io/badge/React-UI-149eca?style=for-the-badge&logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-Build-646cff?style=for-the-badge&logo=vite)](https://vite.dev/)
 [![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](#license)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-2563eb?style=for-the-badge)](https://sa3kibb.github.io/LAB-REPORT-COVER-PAGE-/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-2563eb?style=for-the-badge)](https://sa3kibb.github.io/COVER-PAGE/)
 
 ## Overview
 
 SUB Lab Report Cover Page Generator is a browser-based React application that helps students create clean, branded, print-ready lab report cover pages and starter academic documents. It supports official SUB branding, multiple department presets, live page preview, advanced cover customization, Overleaf/LaTeX helpers, and exports to PDF, image, Word, PowerPoint, SVG, and ZIP.
 
-Live application: [https://sa3kibb.github.io/LAB-REPORT-COVER-PAGE-/](https://sa3kibb.github.io/COVER-PAGE-/)
+Live application: [https://sa3kibb.github.io/COVER-PAGE/](https://sa3kibb.github.io/COVER-PAGE/)
 
 <p align="center">
   <img src="public/sub-logo.jpg" alt="State University of Bangladesh logo" width="180" />
@@ -82,15 +82,15 @@ The cover page can be customized without editing code:
 
 ## Export Options
 
-| Format | Best For |
-| --- | --- |
-| PDF | Direct submission, printing, and final sharing |
-| PNG | High-quality image sharing |
-| JPG | Smaller image file export |
-| SVG | Vector-style cover output |
-| DOCX | Editable Microsoft Word cover page |
-| PPTX | Presentation or slide-ready cover |
-| ZIP | PDF, DOCX, and `main.tex` bundled together |
+| Format | Best For                                       |
+| ------ | ---------------------------------------------- |
+| PDF    | Direct submission, printing, and final sharing |
+| PNG    | High-quality image sharing                     |
+| JPG    | Smaller image file export                      |
+| SVG    | Vector-style cover output                      |
+| DOCX   | Editable Microsoft Word cover page             |
+| PPTX   | Presentation or slide-ready cover              |
+| ZIP    | PDF, DOCX, and `main.tex` bundled together     |
 
 ## Department Support
 
@@ -137,13 +137,13 @@ The Overleaf Builder helps students move from cover page generation to full repo
 
 ## Keyboard Shortcuts
 
-| Shortcut | Action |
-| --- | --- |
-| `Ctrl` / `Command` + `S` | Save current student profile |
-| `Ctrl` / `Command` + `P` | Export PDF |
-| `Ctrl` / `Command` + `Z` | Undo last field edit |
-| `Ctrl` / `Command` + `Shift` + `R` | Reset form |
-| `?` | Open keyboard shortcut help |
+| Shortcut                           | Action                       |
+| ---------------------------------- | ---------------------------- |
+| `Ctrl` / `Command` + `S`           | Save current student profile |
+| `Ctrl` / `Command` + `P`           | Export PDF                   |
+| `Ctrl` / `Command` + `Z`           | Undo last field edit         |
+| `Ctrl` / `Command` + `Shift` + `R` | Reset form                   |
+| `?`                                | Open keyboard shortcut help  |
 
 ## Getting Started
 
@@ -155,8 +155,8 @@ The Overleaf Builder helps students move from cover page generation to full repo
 ### Install and Run
 
 ```bash
-git clone https://github.com/sa3kibb/LAB-REPORT-COVER-PAGE-.git
-cd LAB-REPORT-COVER-PAGE-
+git clone https://github.com/sa3kibb/COVER-PAGE.git
+cd COVER-PAGE
 npm install
 npm run dev
 ```
